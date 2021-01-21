@@ -1,4 +1,4 @@
-# molokai-v2
+# molokai_v2
 
 My version of the ![Molokai colorscheme] (https://github.com/tomasr/molokai)
 
